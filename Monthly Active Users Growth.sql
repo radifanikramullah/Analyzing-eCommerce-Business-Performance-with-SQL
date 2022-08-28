@@ -1,3 +1,4 @@
+--COUNT MONTHLY ACTIVE USER GROWTH
 WITH count_mau AS (
 SELECT year,ROUND(AVG(total_cust),0) AS avg_mau
 FROM 
