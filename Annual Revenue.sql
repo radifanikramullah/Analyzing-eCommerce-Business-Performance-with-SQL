@@ -1,4 +1,4 @@
---NO 1
+--COUNT ANNUAL REVENUE
 CREATE TABLE annual_revenue AS 
 SELECT date_part('year', o.order_purchase_timestamp) AS year,
 	   ROUND(SUM(oi.price+oi.freight_value),0) annual_revenue
@@ -9,7 +9,7 @@ WHERE o.order_status = 'delivered'
 GROUP BY 1
 ORDER BY 1;
 
---NO 2
+--ANNUAL CANCEL ORDER
 CREATE TABLE annual_cancel AS 
 SELECT date_part('year', order_purchase_timestamp) AS year,
 	   COUNT(*) AS annual_cancel
@@ -18,7 +18,7 @@ WHERE order_status = 'canceled'
 GROUP BY year
 ORDER BY year;
 
---NO 3
+--TOP CATEGORY REVENUE
 CREATE TABLE top_cat_rev AS 
 SELECT year, 
 	   product_category_name AS top_cat_rev, 
@@ -39,7 +39,7 @@ FROM (
 	) product_rank
 WHERE rank = 1;
 
---NO 4
+--TOP CATEGORY CANCELLED
 CREATE TABLE top_cat_cancelled AS
 SELECT year, 
 	   product_category_name AS top_cat_cancel, 
@@ -58,7 +58,7 @@ FROM (SELECT date_part('year', o.order_purchase_timestamp) AS year,
 	  ) product_rank
 WHERE rank = 1;
 
---NO 5
+--JOIN ALL TABLE
 SELECT ar.year,
 	   ar.annual_revenue,
 	   ac.annual_cancel,
