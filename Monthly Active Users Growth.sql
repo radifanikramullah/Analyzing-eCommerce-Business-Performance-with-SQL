@@ -11,6 +11,7 @@ GROUP BY 1,2) a
 GROUP BY 1
 ),
 
+--COUNT NEW CUSTOMERS EACH YEARS
 new_cust AS(
 SELECT DATE_PART('year', first_order) AS year,
 	   COUNT(a.customer_unique_id) AS new_customer
@@ -23,6 +24,7 @@ GROUP BY 1
 ORDER BY 1
 ),
 
+--COUNT CUSTOMERS WHO REPEAT ORDER
 repeat_order as(
 SELECT year, COUNT(total_customer) AS repeat_order
 FROM(SELECT DATE_PART('year', o.order_purchase_timestamp) AS year,
@@ -37,6 +39,7 @@ GROUP BY 1
 ORDER BY 1
 ),
 
+--AVERAGE ORDER
 avg_order AS (
 SELECT year, ROUND(AVG(total_order),3) AS avg_frequency_order
 FROM(SELECT DATE_PART('year', o.order_purchase_timestamp) AS year,
