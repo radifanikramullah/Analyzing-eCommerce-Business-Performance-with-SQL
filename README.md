@@ -21,7 +21,20 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 <br>Figure 1. Entity Relationship Diagram (ERD)
 
 ## Annual Customer Activity Growth Analysis
-
-![Screenshot 2022-08-27 093010](https://user-images.githubusercontent.com/94909135/187104054-3660708e-0795-4520-8bb1-9a3f8b1a8b5e.jpg)
+![Customer Activity Growth](https://user-images.githubusercontent.com/94909135/187104054-3660708e-0795-4520-8bb1-9a3f8b1a8b5e.jpg)
+<br>Figure 2. Customer Activity Growth
 <br>*mau = Monthly Active Users
-Overall, there is an increase every year from average monthly active users and new customers, but for repeat order and average frequency order is decreasing.
+
+![unnamed (1)](https://user-images.githubusercontent.com/94909135/187104694-950573b7-99b8-4ec8-ad5c-46faf6e79565.png)
+<br>Figure 3. Monthly Active Users and New Customers
+
+![unnamed](https://user-images.githubusercontent.com/94909135/187104447-894f3c20-c459-498c-a5a2-cd5c8dd3cfec.png)
+<br>Figure 4. Customer Growth and Repeat Order Relation
+
+- Overall, there is an increase every year from average monthly active users and new customers, but for repeat order and average frequency order is decreasing.
+- There is no correlation between average active users and repeat order, increasing active users doesn’t correlate with customers who repeat their orders
+- it means there is another reason why customers don't repeat order in our market place
+
+
+
+
