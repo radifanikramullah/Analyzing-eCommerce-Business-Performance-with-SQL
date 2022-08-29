@@ -40,6 +40,10 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 <br>Figure 5. Annual Revenue and Product Category Quality Analysis
 
 ![unnamed (2)](https://user-images.githubusercontent.com/94909135/187105139-407ccada-94e3-4b0f-bffe-b90eb68f5cff.png)
+<br>Figure 6. Annual Revenue
+
+![429-4298550_home-decor-accessories-png](https://user-images.githubusercontent.com/94909135/187107357-82693e01-51b7-41e9-adb0-85323294ae29.png)![download](https://user-images.githubusercontent.com/94909135/187107376-04c1f73e-b2f6-4640-9a74-511c57f70bcc.jpg)![ingredients-of-cosmetics-beauty-parlour-png-favpng-LbTaax4xQvKLJEGg5vdvpRak0_t](https://user-images.githubusercontent.com/94909135/187107391-b3160b63-f1b6-4494-9b89-271287bc2c87.jpg)
+
 
 
 
