@@ -35,6 +35,11 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 - There is no correlation between average active users and repeat order, increasing active users doesn’t correlate with customers who repeat their orders
 - it means there is another reason why customers don't repeat order in our market place
 
+## Annual Product Category Quality Analysis
+![Screenshot 2022-08-27 113810](https://user-images.githubusercontent.com/94909135/187105022-6ed97cd6-3dc5-4297-afe2-4ea10a5f3251.jpg)
+<br>Figure 5. Annual Revenue and Product Category Quality Analysis
+
+![unnamed (2)](https://user-images.githubusercontent.com/94909135/187105139-407ccada-94e3-4b0f-bffe-b90eb68f5cff.png)
 
 
 
