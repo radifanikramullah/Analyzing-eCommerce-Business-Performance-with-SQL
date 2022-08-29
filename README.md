@@ -53,13 +53,24 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 - Each year has different top category which gives the biggest contribution for annual revenue each year
 - Although the cancelled product is low, but it’s always increasing every year
 
+## Analysis of Annual Payment Type Usage
+![Screenshot 2022-08-28 101020](https://user-images.githubusercontent.com/94909135/187107904-7303cac0-516b-4376-aac6-e05c1e2453de.jpg)
+<br>Figure 9. Different Payment Methods
 
+![Payment Methods Usage 2018](https://user-images.githubusercontent.com/94909135/187107965-ae407718-7d90-4e8f-bf09-2e293a228a92.png)
+<br>Figure 10. Payment Usage in 2018
 
+![chart](https://user-images.githubusercontent.com/94909135/187108048-e061cd08-13c4-4289-8a7b-ae9fc8081650.png)
+<br>Figure 11. Payment Usage in 2018 and 2017 Comparation
 
+- There are 4 most common payment methods, Credit card, Boleto, Voucher, Debit card 
+- The most used payment method is credit card, with 74.9% customers using credit card for payment
+- Debit card has the highest increasing percentage
+- Payment method using voucher is the only method that is decreasing
 
-
-
-
-
-
-
+## Summary
+- Total of the active users is increasing significantly in 2017, but the number for customers that repeating order is decreasing, we have to maintain our relationship with our customers, such as give them special discount for their second order, and give them free delivery services for the third order
+- The increasing number of active users also followed by the increasing number of annual revenue, on the other hand cancellation order also increasing, we can’t avoid cancellation, bat we can reduce it by asking to the customers their reasons why they cancel their order, we can make option or text box when they want to cancel their order, to find out the reason why they cancel, and we can also improve our system
+- We know our best product from  every year, we can also push other product to follow their success
+- with the decreasing usage of voucher, we can make discount for for voucher payment method only, for buying top category product
+- We can give more promos for customers who are using credit card, and we can specialized the promos for top 3 category product each year
