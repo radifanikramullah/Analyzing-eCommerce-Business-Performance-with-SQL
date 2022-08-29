@@ -42,11 +42,22 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 ![unnamed (2)](https://user-images.githubusercontent.com/94909135/187105139-407ccada-94e3-4b0f-bffe-b90eb68f5cff.png)
 <br>Figure 6. Annual Revenue
 
-![429-4298550_home-decor-accessories-png](https://user-images.githubusercontent.com/94909135/187107357-82693e01-51b7-41e9-adb0-85323294ae29.png)![png-transparent-leisure-camping-tourism-leisure-miscellaneous-university-sports-equipment-thumbnail-removebg-preview](https://user-images.githubusercontent.com/94909135/187107493-9384642f-ef3d-420a-878f-b3194c1d7739.png)![ingredients-of-cosmetics-beauty-parlour-png-favpng-LbTaax4xQvKLJEGg5vdvpRak0_t-removebg-preview](https://user-images.githubusercontent.com/94909135/187107498-1fd78f18-eb3f-43cd-9a21-c768c85f9b8f.png)
+![429-4298550_home-decor-accessories-png](https://user-images.githubusercontent.com/94909135/187107357-82693e01-51b7-41e9-adb0-85323294ae29.png)![download-removebg-preview](https://user-images.githubusercontent.com/94909135/187107691-7faf047d-2119-48ec-8f82-dc5a6946b2ef.png)![ingredients-of-cosmetics-beauty-parlour-png-favpng-LbTaax4xQvKLJEGg5vdvpRak0_t-removebg-preview](https://user-images.githubusercontent.com/94909135/187107498-1fd78f18-eb3f-43cd-9a21-c768c85f9b8f.png)
 <br>Figure 7. Annual Top Product Category
 
-![33754-7-toy-transparent-background-thumb](https://user-images.githubusercontent.com/94909135/187107553-683cda67-c1ae-4880-876d-9546b4c43b17.png)
-![ingredients-of-cosmetics-beauty-parlour-png-favpng-LbTaax4xQvKLJEGg5vdvpRak0_t-removebg-preview](https://user-images.githubusercontent.com/94909135/187107542-efc53d18-53bb-4f6b-8fd2-62b384a7bf2c.png)
+![33754-7-toy-transparent-background-thumb](https://user-images.githubusercontent.com/94909135/187107711-2b7b189f-26c0-4359-8f98-32d227348287.png)![png-transparent-leisure-camping-tourism-leisure-miscellaneous-university-sports-equipment-thumbnail-removebg-preview](https://user-images.githubusercontent.com/94909135/187107732-74154f4e-d6e3-4928-872e-4eb0e493b42c.png)![ingredients-of-cosmetics-beauty-parlour-png-favpng-LbTaax4xQvKLJEGg5vdvpRak0_t-removebg-preview](https://user-images.githubusercontent.com/94909135/187107738-8123ead1-5539-461e-bdf8-8e9d6d1e13bc.png)
+<br>Figure 8. Annual Top Cancelled Product Category
+
+- Furniture decor, Bed-bath-table , and Health-Beauty are the most favorite product in their time
+- Revenue is increasing every year, but cancelled product also increasing every year
+- Each year has different top category which gives the biggest contribution for annual revenue each year
+- Although the cancelled product is low, but it’s always increasing every year
+
+
+
+
+
+
 
 
 
