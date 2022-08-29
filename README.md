@@ -20,3 +20,8 @@ Before processing the data, we have to prepare the RAW data, there 8 dataset tha
 ![ERD](https://user-images.githubusercontent.com/94909135/187103923-b9aaf85d-19bb-41d9-b1bb-b415a1b22571.jpg)
 <br>Figure 1. Entity Relationship Diagram (ERD)
 
+## Annual Customer Activity Growth Analysis
+
+![Screenshot 2022-08-27 093010](https://user-images.githubusercontent.com/94909135/187104054-3660708e-0795-4520-8bb1-9a3f8b1a8b5e.jpg)
+
+Overall, there is an increase every year from average monthly active users and new customers, but for repeat order and average frequency order is decreasing.
