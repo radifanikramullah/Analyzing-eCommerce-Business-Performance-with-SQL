@@ -7,11 +7,16 @@ Tha data will be used today is provided by [Rakamin Academy](https://rakamin.com
 
 <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-[Dataset](https://drive.google.com/file/d/1Uowt8AgNIjPR1cTDjsmsez_iXWNJj51a/view?usp=sharing)
+Dataset [Here](https://drive.google.com/file/d/1Uowt8AgNIjPR1cTDjsmsez_iXWNJj51a/view?usp=sharing)
 
 ## Data Preparation
 Before processing the data, we have to prepare the RAW data, there 8 dataset that related to each others, so the preparation steps taken are as follows:
- - 
+ - Create new database in PostgreSQL
+ - create the table consist columns that similar with the raw dataset
+ - set primery key and foreign key
+ - import csv file to the tables
+ - Create Entity Relationship Diagram (ERD), and export as an image
 
-![image](https://user-images.githubusercontent.com/94909135/187062491-96806548-9d51-4394-a0b4-f51ec123b650.jpg)
-<br>Figure 1. Data Relationship
+![ERD](https://user-images.githubusercontent.com/94909135/187103923-b9aaf85d-19bb-41d9-b1bb-b415a1b22571.jpg)
+<br>Figure 1. Entity Relationship Diagram (ERD)
+
